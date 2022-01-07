@@ -4,9 +4,9 @@
 
 Client has a Physiotherapy clinic and wants to develop a Mobile application for patients where different physiotherapy exercises will be available. The exercises will be displayed under specific body parts like Shoulder, Elbow etc.  These exercises will be available in the form of videos that will be added by admin and can be played in the mobile application for users to view and practice the exercise as per their requirements.
 
-![Screenshot](https://github.com/tbiinfotech/PhysiotherapyExercises-iOS/blob/main/Home.png)
-![Screenshot](https://github.com/tbiinfotech/PhysiotherapyExercises-iOS/blob/main/AllExercise.png)
-![Screenshot](https://github.com/tbiinfotech/PhysiotherapyExercises-iOS/blob/main/Shop.png)
+![Screenshot](https://github.com/tbiinfotech/PhysiotherapyExercises-iOS/blob/main/Images/Home.png)
+![Screenshot](https://github.com/tbiinfotech/PhysiotherapyExercises-iOS/blob/main/Images/AllExercise.png)
+![Screenshot](https://github.com/tbiinfotech/PhysiotherapyExercises-iOS/blob/main/Images/Shop.png)
 
 ## Technology Stack
 
